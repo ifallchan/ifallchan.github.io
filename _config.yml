@@ -2,7 +2,7 @@
 email: dill@live.cn
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+google_analytics: UA-156587096-1
 
 name: ZenChan
 title: 七.SPACE
