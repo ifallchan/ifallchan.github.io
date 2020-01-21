@@ -29,11 +29,11 @@ contact_img: /assets/images/placeholder-28.jpg
 formcarry: https://formcarry.com/s/gH9CHKYkJyJ
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+#disqus: test-apkdzgmqhj
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+mailchimp_action: https://space.us4.list-manage.com/subscribe/post-json?u=4e7ce722e4ad9f7a2298a1673&amp;id=0096ef4f6b
+mailchimp_input: b_4e7ce722e4ad9f7a2298a1673_0096ef4f6b
 
 # Author settings
 author:
