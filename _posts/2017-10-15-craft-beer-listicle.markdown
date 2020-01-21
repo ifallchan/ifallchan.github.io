@@ -8,7 +8,7 @@ author: Thomas Vaeth
 tags: 
   - Mixtape
   - Moon Drinking
-  - Kale
+  - Snow
 ---
 Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1. 
 
