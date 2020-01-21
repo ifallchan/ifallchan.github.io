@@ -13,8 +13,8 @@ twitter_username: zenimchan
 default_img: /assets/images/seo.jpg
 social:
 
-  - name: twitter
-    url: https://twitter.com/zenimchan
+#  - name: twitter
+#    url: https://twitter.com/zenimchan
   - name: instagram
     url: https://www.instagram.com/zenimchan/
   - name: weibo
