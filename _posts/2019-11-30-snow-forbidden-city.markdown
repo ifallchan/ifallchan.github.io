@@ -29,12 +29,6 @@ Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug.
 
 Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
 
-> Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
-> <cite>Man braid</cite>
-
-#### Subway tile
-Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&amp;B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
-
 ![Placeholder](/assets/images/snow-forbidden-city-3.jpg)
 
 Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.
