@@ -28,8 +28,8 @@ social:
 contact_img: /assets/images/placeholder-28.jpg
 formcarry: https://formcarry.com/s/gH9CHKYkJyJ
 
-# Disqus settings
-#disqus: test-apkdzgmqhj
+ Disqus settings
+ disqus: 7space
 
 # MailChimp settings
 mailchimp_action: https://space.us4.list-manage.com/subscribe/post-json?u=4e7ce722e4ad9f7a2298a1673&amp;id=0096ef4f6b
