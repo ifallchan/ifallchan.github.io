@@ -4,15 +4,14 @@ baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: UA-156587096-1
 
-name: ZenChan
+name: Zen Chan
 title: 七.SPACE
 description: >
-  Hahahahahahaha
+   In the Right Place At the Right Time
 url: https://七.space
 twitter_username: zenimchan
 default_img: /assets/images/seo.jpg
 social:
-
 # - name: twitter
 #   url: https://twitter.com/zenimchan
   - name: instagram
@@ -38,7 +37,7 @@ mailchimp_input: b_4e7ce722e4ad9f7a2298a1673_0096ef4f6b
 # Author settings
 author:
   - name: Zen Chan
-    bio: Hahahahahahahaha
+    bio: the Right Guy
     url: https://七.space
 
 # Pagination settings
@@ -58,7 +57,7 @@ autopages:
   collections:
     enabled: false
   tags:
-    layouts: 
+    layouts:
       - 'tag.html'
     title: '七.SPACE'
     permalink: '/tag/:tag'
