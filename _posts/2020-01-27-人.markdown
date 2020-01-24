@@ -1,0 +1,30 @@
+---
+layout: post
+title: "人"
+date: 2020-01-25
+description:
+image: /assets/images/people3.jpg
+author:
+tags:
+  - people
+---
+
+![Placeholder](/assets/images/people1.jpg)
+
+
+![Placeholder](/assets/images/people2.jpg)
+
+
+![Placeholder](/assets/images/people4.jpg)
+
+
+![Placeholder](/assets/images/people5.jpg)
+
+
+![Placeholder](/assets/images/people6.jpg)
+
+
+![Placeholder](/assets/images/people7.jpg)
+
+
+![Placeholder](/assets/images/people8.jpg)
