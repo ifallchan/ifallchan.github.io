@@ -33,4 +33,4 @@ tags:
 ![Placeholder](/assets/images/color9.jpg)
 
 
-![Placeholder](/assets/images/color10.jpg)
+![Placeholder](/assets/images/color10.jpg#full)

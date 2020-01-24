@@ -22,4 +22,4 @@ tags:
 
 ![Placeholder](/assets/images/yi5.jpg)
 
-![Placeholder](/assets/images/yi7.jpg)
+![Placeholder](/assets/images/yi7.jpg#full)
