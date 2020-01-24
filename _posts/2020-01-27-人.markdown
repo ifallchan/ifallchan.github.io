@@ -3,7 +3,7 @@ layout: post
 title: "人"
 date: 2020-01-25
 description:
-image: /assets/images/people3.jpg
+image: /assets/images/people11.jpg
 author:
 tags:
   - people
