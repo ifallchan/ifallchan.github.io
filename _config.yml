@@ -12,8 +12,8 @@ url: https://七.space
 twitter_username: zenimchan
 default_img: /assets/images/seo.jpg
 social:
-# - name: twitter
-#   url: https://twitter.com/zenimchan
+  - name: flickr
+    url: https://www.flickr.com/photos/dillchan/
   - name: instagram
     url: https://www.instagram.com/zenimchan/
   - name: weibo
@@ -21,7 +21,7 @@ social:
   - name: github
     url: https://github.com/ifallchan
   - name: wechat
-#   url: https://codepen.io/thomasvaeth/
+    url: ifallchan
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
