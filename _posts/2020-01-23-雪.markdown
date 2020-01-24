@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "雪"
-date: 2020-01-26
+date: 2020-01-23
 description:
-image: /assets/images/snow3.jpg
-author: 
+image: /assets/images/snow12.jpg
+author:
 tags:
   - snow
 ---
@@ -28,3 +28,12 @@ tags:
 
 
 ![Placeholder](/assets/images/snow8.jpg)
+
+
+![Placeholder](/assets/images/snow9.jpg)
+
+
+![Placeholder](/assets/images/snow10.jpg)
+
+
+![Placeholder](/assets/images/snow11.jpg)
