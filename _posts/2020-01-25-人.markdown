@@ -6,7 +6,7 @@ description:
 image: /assets/images/people11.jpg
 author:
 tags:
-  - people
+  - Street
 ---
 
 ![Placeholder](/assets/images/people1.jpg)

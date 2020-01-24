@@ -6,7 +6,7 @@ description:
 image: /assets/images/fall3.jpg
 author:
 tags:
-  - fall
+  - Season
 ---
 
 ![Placeholder](/assets/images/fall1.jpg)

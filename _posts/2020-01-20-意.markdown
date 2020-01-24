@@ -6,7 +6,7 @@ description:
 image: /assets/images/yi6.jpg
 author:
 tags:
-  - Season
+  - Abstract
 ---
 ![Placeholder](/assets/images/yi1.jpg)
 

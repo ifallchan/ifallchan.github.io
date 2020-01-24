@@ -6,7 +6,7 @@ description:
 image: /assets/images/snow12.jpg
 author:
 tags:
-  - snow
+  - Season
 ---
 
 ![Placeholder](/assets/images/snow1.jpg)
