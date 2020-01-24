@@ -16,8 +16,8 @@ social:
     url: https://www.flickr.com/photos/dillchan/
   - name: instagram
     url: https://www.instagram.com/zenimchan/
-  - name: eyeem
-    url: https://www.eyeem.com/u/29595053
+# - name: eyeem
+#   url: https://www.eyeem.com/u/29595053
   - name: github
     url: https://github.com/ifallchan
   - name: wechat
