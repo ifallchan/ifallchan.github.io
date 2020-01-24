@@ -23,4 +23,4 @@ tags:
 ![Placeholder](/assets/images/b&w6.jpg)
 
 
-![Placeholder](/assets/images/b&w7.jpg#full)
+![Placeholder](/assets/images/b&w7.jpg)
