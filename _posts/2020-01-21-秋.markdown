@@ -24,4 +24,4 @@ tags:
 ![Placeholder](/assets/images/fall7.jpg)
 
 
-![Placeholder](/assets/images/fall8.jpg#full)
+![Placeholder](/assets/images/fall8.jpg)
