@@ -4,9 +4,11 @@ title: "意"
 date: 2020-01-25
 description:
 image: /assets/images/yi6.jpg
+author: 
 tags:
   - Season
 ---
+
 ![Placeholder](/assets/images/yi1.jpg)
 
 

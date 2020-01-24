@@ -4,7 +4,7 @@ title: "影"
 date: 2020-01-24
 description:
 image: /assets/images/ying7.jpg
-author: Zen Chan
+author: 
 tags:
   - 影
 ---

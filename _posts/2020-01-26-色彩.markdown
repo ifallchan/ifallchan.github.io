@@ -4,10 +4,9 @@ title: "色彩"
 date: 2020-01-26
 description:
 image: /assets/images/color4.jpg
-author: Zen Chan
+author:
 tags:
   - Color
-  -
 ---
 
 ![Placeholder](/assets/images/color1.jpg)

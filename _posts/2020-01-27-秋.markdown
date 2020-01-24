@@ -7,7 +7,6 @@ image: /assets/images/fall3.jpg
 author: Zen Chan
 tags:
   - fall
-  -
 ---
 
 ![Placeholder](/assets/images/fall1.jpg)
