@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "人"
-date: 2020-01-25
+date: 2020-01-24
 description:
 image: /assets/images/people11.jpg
 author:
