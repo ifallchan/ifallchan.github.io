@@ -24,4 +24,4 @@ tags:
 ![Placeholder](/assets/images/ying5.jpg)
 
 
-![Placeholder](/assets/images/ying6.jpg#full)
+![Placeholder](/assets/images/ying6.jpg)
