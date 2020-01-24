@@ -1,0 +1,31 @@
+---
+layout: post
+title: "秋"
+date: 2020-01-26
+description:
+image: /assets/images/fall3.jpg
+author: Zen Chan
+tags:
+  - fall
+  -
+---
+
+![Placeholder](/assets/images/fall1.jpg)
+
+
+![Placeholder](/assets/images/fall2.jpg)
+
+
+![Placeholder](/assets/images/fall4.jpg)
+
+
+![Placeholder](/assets/images/fall5.jpg)
+
+
+![Placeholder](/assets/images/fall6.jpg)
+
+
+![Placeholder](/assets/images/fall7.jpg)
+
+
+![Placeholder](/assets/images/fall8.jpg)
