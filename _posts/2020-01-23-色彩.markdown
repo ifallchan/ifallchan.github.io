@@ -18,6 +18,9 @@ tags:
 ![Placeholder](/assets/images/color3.jpg)
 
 
+![Placeholder](/assets/images/color4.jpg)
+
+
 ![Placeholder](/assets/images/color5.jpg)
 
 
@@ -25,12 +28,3 @@ tags:
 
 
 ![Placeholder](/assets/images/color7.jpg)
-
-
-![Placeholder](/assets/images/color8.jpg)
-
-
-![Placeholder](/assets/images/color9.jpg)
-
-
-![Placeholder](/assets/images/color10.jpg)
