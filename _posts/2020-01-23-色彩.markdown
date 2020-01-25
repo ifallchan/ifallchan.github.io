@@ -3,14 +3,11 @@ layout: post
 title: "色彩"
 date: 2020-01-23
 description:
-image: /assets/images/color4.jpg
+image: /assets/images/color1.jpg
 author:
 tags:
   - Color
 ---
-
-![Placeholder](/assets/images/color1.jpg)
-
 
 ![Placeholder](/assets/images/color2.jpg)
 
