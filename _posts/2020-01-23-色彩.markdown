@@ -9,8 +9,6 @@ tags:
   - Color
 ---
 
-![Placeholder](/assets/images/color1.jpg)
-
 
 ![Placeholder](/assets/images/color2.jpg)
 
