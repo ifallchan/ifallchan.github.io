@@ -3,7 +3,7 @@ layout: post
 title: "黑白"
 date: 2020-01-20
 description:
-image: /assets/images/b&w3.jpg
+image: /assets/images/b&w1.jpg
 author:
 tags:
   - BW
