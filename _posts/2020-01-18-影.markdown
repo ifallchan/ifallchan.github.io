@@ -6,7 +6,6 @@ description:
 image:
 author:
 tags:
-  - Shadow
   - Reflection
 ---
 
