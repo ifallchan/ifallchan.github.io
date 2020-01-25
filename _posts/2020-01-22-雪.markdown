@@ -12,7 +12,7 @@ tags:
 ![Placeholder](/assets/images/snow1.jpg)
 
 
-![Placeholder](/assets/images/snow2.jpg)
+#![Placeholder](/assets/images/snow2.jpg)
 
 
 ![Placeholder](/assets/images/snow4.jpg)
