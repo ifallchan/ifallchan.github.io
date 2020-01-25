@@ -16,15 +16,15 @@ social:
     url: https://www.flickr.com/photos/dillchan/
   - name: instagram
     url: https://www.instagram.com/zenimchan/
-# - name: eyeem
-#   url: https://www.eyeem.com/u/29595053
+  - name: 500px
+    url: https://500px.com/zenimchan/
   - name: github
-    url: https://github.com/ifallchan
+    url: https://github.com/ifallchan/
 # - name: wechat
 #   url: ifallchan
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /assets/images/b&w8.jpg
 formcarry: https://formcarry.com/s/gH9CHKYkJyJ
 
 # Disqus settings

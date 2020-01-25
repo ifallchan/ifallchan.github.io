@@ -6,7 +6,7 @@ description:
 image: /assets/images/b&w8.jpg
 author:
 tags:
-  - B&W
+  - BW
 ---
 ![Placeholder](/assets/images/b&w1.jpg)
 
@@ -23,4 +23,4 @@ tags:
 ![Placeholder](/assets/images/b&w6.jpg)
 
 
-![Placeholder](/assets/images/b&w7.jpg#full)
+![Placeholder](/assets/images/b&w7.jpg)
