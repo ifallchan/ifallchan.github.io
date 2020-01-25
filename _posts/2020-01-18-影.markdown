@@ -3,7 +3,7 @@ layout: post
 title: "影"
 date: 2020-01-18
 description:
-image: /assets/images/ying1.jpg
+image: 
 author:
 tags:
   -
