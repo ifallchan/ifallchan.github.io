@@ -3,13 +3,13 @@ layout: post
 title: "黑白"
 date: 2020-01-20
 description:
-image:
+image: /assets/images/b&w1.jpg
 author:
 tags:
   - BW
 ---
 
-![Placeholder](/assets/images/b&w1.jpg)
+![Placeholder](/assets/images/b&w2.jpg)
 
 
 ![Placeholder](/assets/images/b&w3.jpg)

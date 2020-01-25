@@ -9,9 +9,6 @@ tags:
   - Reflection
 ---
 
-![Placeholder](/assets/images/ying1.jpg)
-
-
 ![Placeholder](/assets/images/ying2.jpg)
 
 

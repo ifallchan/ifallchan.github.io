@@ -3,14 +3,11 @@ layout: post
 title: "意"
 date: 2020-01-19
 description:
-image: 
+image: /assets/images/yi1.jpg
 author:
 tags:
   - Abstract
 ---
-
-![Placeholder](/assets/images/yi1.jpg)
-
 
 ![Placeholder](/assets/images/yi2.jpg)
 
@@ -22,5 +19,9 @@ tags:
 
 
 ![Placeholder](/assets/images/yi5.jpg)
+
+
+![Placeholder](/assets/images/yi6.jpg)
+
 
 ![Placeholder](/assets/images/yi7.jpg)

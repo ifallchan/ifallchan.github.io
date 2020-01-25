@@ -3,14 +3,11 @@ layout: post
 title: "人"
 date: 2020-01-24
 description:
-image: 
+image: /assets/images/people1.jpg
 author:
 tags:
   - Street
 ---
-
-![Placeholder](/assets/images/people1.jpg)
-
 
 ![Placeholder](/assets/images/people2.jpg)
 

@@ -3,13 +3,13 @@ layout: post
 title: "秋"
 date: 2020-01-21
 description:
-image: 
+image: /assets/images/fall1.jpg
 author:
 tags:
   - Season
 ---
 
-![Placeholder](/assets/images/fall1.jpg)
+![Placeholder](/assets/images/fall2.jpg)
 
 
 ![Placeholder](/assets/images/fall3.jpg)
@@ -21,7 +21,7 @@ tags:
 ![Placeholder](/assets/images/fall5.jpg)
 
 
+![Placeholder](/assets/images/fall6.jpg)
+
+
 ![Placeholder](/assets/images/fall7.jpg)
-
-
-![Placeholder](/assets/images/fall8.jpg)
