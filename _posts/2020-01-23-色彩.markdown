@@ -6,7 +6,6 @@ description:
 image: /assets/images/color1.jpg
 author:
 tags:
-  - Color
 ---
 
 ![Placeholder](/assets/images/color2.jpg)

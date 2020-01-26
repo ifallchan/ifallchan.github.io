@@ -6,7 +6,6 @@ description:
 image: /assets/images/yi1.jpg
 author:
 tags:
-  - Abstract
 ---
 
 ![Placeholder](/assets/images/yi2.jpg)
