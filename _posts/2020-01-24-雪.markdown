@@ -3,7 +3,7 @@ layout: post
 title: "雪"
 date: 2020-01-24
 description:
-image: /assets/images/snow1.jpg
+image: /assets/images/snow2.jpg
 author:
 tags:
 ---
