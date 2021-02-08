@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: dill@live.cn
+email: ifallchan@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: UA-156587096-1
@@ -9,15 +9,15 @@ title: 七.SPACE
 description: >
    In the Right Place At the Right Time
 url: https://七.space
-twitter_username: zenimchan
+twitter_username: 7enChan
 default_img: /assets/images/seo.jpg
 social:
   - name: flickr
-    url: https://www.flickr.com/photos/dillchan/
+    url: https://www.flickr.com/photos/7enchan/
   - name: instagram
-    url: https://www.instagram.com/zenimchan/
+    url: https://www.instagram.com/7enchan/
   - name: 500px
-    url: https://500px.com/zenimchan/
+    url: https://500px.com/7enchan/
 # - name: wechat
 #   url: ifallchan
 
@@ -35,7 +35,7 @@ mailchimp_input: b_4e7ce722e4ad9f7a2298a1673_0096ef4f6b
 # Author settings
 author:
   - name: Zen Chan
-    bio: the Right Guy
+    bio: 
     url: https://七.space
 
 # Pagination settings
