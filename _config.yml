@@ -12,8 +12,8 @@ url: https://七.space
 twitter_username: 7enChan
 default_img: /assets/images/seo.jpg
 social:
-  - name: flickr
-    url: https://www.flickr.com/photos/7enchan/
+# - name: flickr
+#   url: https://www.flickr.com/photos/7enchan/
   - name: instagram
     url: https://www.instagram.com/7enchan/
   - name: 500px
